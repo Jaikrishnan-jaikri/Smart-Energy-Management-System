@@ -49,7 +49,6 @@ This project provides a real-time Smart Energy Monitoring System that continuous
 
 Firebase stores energy usage with timestamps. Logs are segmented hourly and daily. Users can analyze the historical data and receive energy-saving suggestions.
 
-## 📦 Folder Structure (suggested)
 
 
 
